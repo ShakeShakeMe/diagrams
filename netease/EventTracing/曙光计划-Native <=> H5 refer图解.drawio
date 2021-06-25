@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T11:43:50.118Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="3t8H5UeVmbPUIz7PjcGp" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-25T11:44:45.111Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="wawPpfIgiKVph2PHVg4P" version="14.7.0" type="github">
   <diagram id="BwOSBp48OYiSH1dpokI9" name="Page-1">
     <mxGraphModel dx="1688" dy="2110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -350,13 +350,13 @@
           <mxGeometry x="893.5" y="1679" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-mIfDHSUPJoPvfxh9Jht-140" value="&lt;span&gt;&lt;font&gt;p_B&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#d79b00;fillColor=#ffe6cc;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="1619" width="80" height="80" as="geometry" />
+          <mxGeometry x="1251" y="1629" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-mIfDHSUPJoPvfxh9Jht-144" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#FF0000;strokeColor=#666666;" edge="1" parent="1" source="-mIfDHSUPJoPvfxh9Jht-143" target="-mIfDHSUPJoPvfxh9Jht-140">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-mIfDHSUPJoPvfxh9Jht-143" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;refer参数：&lt;/font&gt;&lt;/b&gt;&lt;br&gt;- _oid: page_B&lt;br&gt;- _pgrefer:&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#ff0000&quot;&gt;[p][4][5][p_h5|p_h5_biz]&lt;b&gt;[_refer_from_h5]&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;dashed=1;fontColor=#666666;fillColor=none;strokeColor=#666666;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1524" y="1540" width="306" height="100" as="geometry" />
+          <mxGeometry x="1370" y="1529" width="306" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-mIfDHSUPJoPvfxh9Jht-145" value="&lt;h1&gt;3.2 h5页面按钮点击（站外h5）&lt;/h1&gt;&lt;p&gt;1. &lt;b&gt;btn_in_h5_1&lt;/b&gt;: 没有埋点&lt;/p&gt;&lt;p&gt;2. &lt;b&gt;btn_in_h5_2&lt;/b&gt;: 也没有埋点&lt;br&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 1) 但是由于该按钮点击是跳转到 页面B&lt;br&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 2) 所以页面B的 _pgrefer 会被降级到 &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;p_h5_biz 页面的曝光&lt;/font&gt;&lt;/b&gt;上 （参见 &lt;b&gt;refer环节的讲解&lt;/b&gt;）&lt;br&gt;&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="45" y="1880" width="511" height="140" as="geometry" />
