@@ -1,1 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T11:50:54.036Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" version="14.7.0" etag="AWHACNkkttACS3sInasZ" type="github"><diagram id="_ZPEgi9wng2458FTJGSn">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-25T11:55:38.128Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="mglC3YTzQBc2zvr7ocq-" version="14.7.0" type="github">
+  <diagram id="_ZPEgi9wng2458FTJGSn" name="Page-1">
+    <mxGraphModel dx="2025" dy="2298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CS7jje6rmYeDG2XOKvHa-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-1100" width="710" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="CS7jje6rmYeDG2XOKvHa-2" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;fontColor=#000000;fillColor=#ffffff;align=left;" vertex="1" parent="1">
+          <mxGeometry x="75" y="-890" width="200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="CS7jje6rmYeDG2XOKvHa-3" value="page_A" style="text;html=1;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;strokeColor=#000000;dashed=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="89" y="-830" width="61" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CS7jje6rmYeDG2XOKvHa-6" value="btn_a" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;align=center;fontStyle=1;fillColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="140.5" y="-710" width="69" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CS7jje6rmYeDG2XOKvHa-9" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;fontColor=#000000;fillColor=#ffffff;align=left;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-890" width="200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="CS7jje6rmYeDG2XOKvHa-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#000000;strokeColor=#666666;" edge="1" parent="1" source="CS7jje6rmYeDG2XOKvHa-6" target="CS7jje6rmYeDG2XOKvHa-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="586.75" y="-690" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CS7jje6rmYeDG2XOKvHa-12" value="page_B" style="text;html=1;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;strokeColor=#000000;dashed=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="483" y="-830" width="58" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CS7jje6rmYeDG2XOKvHa-13" value="点击进入页面 B" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-20" y="-650" as="geometry">
+            <mxPoint x="373" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CS7jje6rmYeDG2XOKvHa-14" value="&lt;span style=&quot;font-size: 16px&quot;&gt;实际场景分析1:&lt;/span&gt;" style="text;html=1;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-1100" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CS7jje6rmYeDG2XOKvHa-15" value="&lt;h1&gt;过程解读&lt;/h1&gt;&lt;p&gt;1. 页面 A 有一个按钮 btn_a, 点击进入页面 B&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;align=left;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="-1020" width="385" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CS7jje6rmYeDG2XOKvHa-18" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="800" y="-1100" width="660" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="CS7jje6rmYeDG2XOKvHa-19" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;fontColor=#000000;fillColor=#ffffff;align=left;" vertex="1" parent="1">
+          <mxGeometry x="835" y="-890" width="200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="CS7jje6rmYeDG2XOKvHa-20" value="page_A" style="text;html=1;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;strokeColor=#000000;dashed=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="849" y="-830" width="61" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CS7jje6rmYeDG2XOKvHa-21" value="btn_a" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;align=center;fontStyle=1;fillColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="900.5" y="-710" width="69" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CS7jje6rmYeDG2XOKvHa-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#000000;strokeColor=#666666;" edge="1" parent="1" source="CS7jje6rmYeDG2XOKvHa-21" target="CS7jje6rmYeDG2XOKvHa-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1346.75" y="-690" as="sourcePoint" />
+            <mxPoint x="1140" y="-690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CS7jje6rmYeDG2XOKvHa-25" value="&lt;span style=&quot;font-size: 16px&quot;&gt;实际场景分析2:&lt;/span&gt;" style="text;html=1;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="800" y="-1100" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CS7jje6rmYeDG2XOKvHa-26" value="&lt;h1&gt;过程解读&lt;/h1&gt;&lt;p&gt;1. 页面 A 有一个按钮 btn_a, 点击进入页面 B&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;align=left;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="835" y="-1020" width="385" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CS7jje6rmYeDG2XOKvHa-27" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="-760" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="CS7jje6rmYeDG2XOKvHa-30" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;添加 3 首歌到播放列表&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="-750" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CS7jje6rmYeDG2XOKvHa-31" value="&lt;b&gt;song_1&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1225" y="-715" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CS7jje6rmYeDG2XOKvHa-32" value="&lt;b&gt;song_2&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1225" y="-680" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CS7jje6rmYeDG2XOKvHa-33" value="&lt;b&gt;song_3&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1225" y="-650" width="175" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
