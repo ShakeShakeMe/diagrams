@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T09:24:06.699Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="BQ1utQH8vSccIi-1iDdu" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-25T11:22:11.961Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="7_H86Yt4EFOc9TLUqhEa" version="14.7.0" type="github">
   <diagram id="BwOSBp48OYiSH1dpokI9" name="Page-1">
     <mxGraphModel dx="2025" dy="2298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -243,28 +243,28 @@
           <mxGeometry x="506.25" y="130" width="85.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-mIfDHSUPJoPvfxh9Jht-96" value="&lt;h1&gt;1. 页面A的按钮 btn_a 点击&lt;/h1&gt;&lt;p&gt;1. 点击事件，发生了页面切换 =&amp;gt; &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;page_biz_h5&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;2. page_biz_h5 曝光的时候，_pgrefer = btn_a 的点击&lt;br&gt;&amp;nbsp; &amp;nbsp;=&amp;gt; 格式: [e][_actseq][_pgstep][_spm]&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="45" y="570" width="340" height="120" as="geometry" />
+          <mxGeometry x="45" y="670" width="340" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-mIfDHSUPJoPvfxh9Jht-102" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;strokeColor=#666666;" edge="1" parent="1" source="-mIfDHSUPJoPvfxh9Jht-97" target="-mIfDHSUPJoPvfxh9Jht-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-mIfDHSUPJoPvfxh9Jht-97" value="&lt;font&gt;&lt;span&gt;p_h5_biz&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#d79b00;fillColor=#ffe6cc;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="654.5" y="550" width="80" height="80" as="geometry" />
+          <mxGeometry x="654.5" y="650" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-mIfDHSUPJoPvfxh9Jht-98" value="&lt;span&gt;&lt;font&gt;p_h5&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#d79b00;fillColor=#ffe6cc;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="654.5" y="690" width="80" height="80" as="geometry" />
+          <mxGeometry x="654.5" y="790" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-mIfDHSUPJoPvfxh9Jht-108" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;strokeColor=#666666;" edge="1" parent="1" source="-mIfDHSUPJoPvfxh9Jht-107" target="-mIfDHSUPJoPvfxh9Jht-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-mIfDHSUPJoPvfxh9Jht-107" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;refer参数：&lt;/font&gt;&lt;/b&gt;&lt;br&gt;- _oid: page_h5_biz&lt;br&gt;- s_ctype: h5&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;- _pgrefer:&amp;nbsp;&amp;nbsp;[e][4][5][btn_a|page_biz_A]&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;dashed=1;fontColor=#666666;fillColor=none;strokeColor=#666666;align=left;" vertex="1" parent="1">
-          <mxGeometry x="834" y="470" width="266" height="120" as="geometry" />
+          <mxGeometry x="834" y="570" width="266" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-mIfDHSUPJoPvfxh9Jht-109" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;strokeColor=#666666;" edge="1" parent="1" source="-mIfDHSUPJoPvfxh9Jht-110" target="-mIfDHSUPJoPvfxh9Jht-113">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-mIfDHSUPJoPvfxh9Jht-110" value="&lt;font&gt;&lt;span&gt;p_h5_biz&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#d79b00;fillColor=#ffe6cc;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="673.5" y="950" width="80" height="80" as="geometry" />
+          <mxGeometry x="673.5" y="1050" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-mIfDHSUPJoPvfxh9Jht-111" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;strokeColor=#666666;" edge="1" parent="1" source="-mIfDHSUPJoPvfxh9Jht-113" target="-mIfDHSUPJoPvfxh9Jht-114">
           <mxGeometry relative="1" as="geometry" />
@@ -273,37 +273,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-mIfDHSUPJoPvfxh9Jht-113" value="&lt;span&gt;&lt;font&gt;p_h5&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#d79b00;fillColor=#ffe6cc;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="673.5" y="1090" width="80" height="80" as="geometry" />
+          <mxGeometry x="673.5" y="1190" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-mIfDHSUPJoPvfxh9Jht-114" value="&lt;b&gt;btn_in_h5_1&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#666666;fontColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="579" y="1240" width="70" height="70" as="geometry" />
+          <mxGeometry x="579" y="1340" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-mIfDHSUPJoPvfxh9Jht-115" value="&lt;b&gt;&lt;font&gt;btn_in_h5_2&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#666666;fontColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="808" y="1240" width="70" height="70" as="geometry" />
+          <mxGeometry x="808" y="1340" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-mIfDHSUPJoPvfxh9Jht-117" value="&lt;h1&gt;2. h5页面加载完成&lt;/h1&gt;&lt;p&gt;1. btn_in_h5_1 &amp;amp;&amp;amp; btn_in_h5_2 都露出了&lt;br&gt;&lt;/p&gt;&lt;p&gt;2. 两个按钮需要打曝光开始埋点&lt;/p&gt;&lt;p&gt;3. h5内的所有埋点，都通过 &lt;font color=&quot;#ff0000&quot;&gt;RPC/JSBridge&lt;/font&gt; 的方式，交给SDK来打&lt;br&gt;&amp;nbsp; &amp;nbsp; - 这样所有的埋点都可以带上SDK维度的公参等信息&lt;/p&gt;&lt;p&gt;4. 在 RPC/JSBridge 层面知道每一个打点所在的 UI/WK WebView&lt;/p&gt;&lt;p&gt;5. 然后每一个打点json，都拼接上 &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;biz_h5_context&lt;/font&gt;&lt;/b&gt; 参数，格式如下:&lt;br&gt;&lt;/p&gt;&lt;p&gt;6. 这样做到了h5内的埋点，可以 refer 到上一个 native 操作&lt;br&gt;&lt;/p&gt;&lt;p&gt;7. &lt;b&gt;&lt;font color=&quot;#994c00&quot;&gt;h5内有自己的VTree，有自己的层级结构，对Native是透明的&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="45" y="860" width="375" height="250" as="geometry" />
+        <mxCell id="-mIfDHSUPJoPvfxh9Jht-117" value="&lt;h1&gt;2. h5页面加载完成&lt;/h1&gt;&lt;p&gt;1. btn_in_h5_1 &amp;amp;&amp;amp; btn_in_h5_2 都露出了&lt;br&gt;&lt;/p&gt;&lt;p&gt;2. 两个按钮需要打曝光开始埋点&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;(以下是站内h5)&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;3. h5内的所有埋点，都通过 &lt;font color=&quot;#ff0000&quot;&gt;RPC/JSBridge&lt;/font&gt; 的方式，交给SDK来打&lt;br&gt;&amp;nbsp; &amp;nbsp; - 这样所有的埋点都可以带上SDK维度的公参等信息&lt;/p&gt;&lt;p&gt;4. 在 RPC/JSBridge 层面知道每一个打点所在的 UI/WK WebView&lt;/p&gt;&lt;p&gt;5. 然后每一个打点json，都拼接上 &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;biz_h5_context&lt;/font&gt;&lt;/b&gt; 参数，格式如下:&lt;br&gt;&lt;/p&gt;&lt;p&gt;6. 这样做到了h5内的埋点，可以 refer 到上一个 native 操作&lt;br&gt;&lt;/p&gt;&lt;p&gt;7. &lt;b&gt;&lt;font color=&quot;#994c00&quot;&gt;h5内有自己的VTree，有自己的层级结构，对Native是透明的&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="45" y="960" width="375" height="250" as="geometry" />
         </mxCell>
         <mxCell id="-mIfDHSUPJoPvfxh9Jht-119" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;strokeColor=#666666;" edge="1" parent="1" source="-mIfDHSUPJoPvfxh9Jht-118" target="-mIfDHSUPJoPvfxh9Jht-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-mIfDHSUPJoPvfxh9Jht-118" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;refer参数：&lt;/font&gt;&lt;/b&gt;&lt;br&gt;- _oid: page_h5_biz&lt;br&gt;- s_ctype: h5&lt;br&gt;- _pgrefer:&amp;nbsp;&amp;nbsp;[e][4][5][btn_a|page_biz_A]" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;dashed=1;fontColor=#666666;fillColor=none;strokeColor=#666666;align=left;" vertex="1" parent="1">
-          <mxGeometry x="844" y="860" width="266" height="120" as="geometry" />
+          <mxGeometry x="844" y="960" width="266" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-mIfDHSUPJoPvfxh9Jht-121" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;strokeColor=#666666;" edge="1" parent="1" source="-mIfDHSUPJoPvfxh9Jht-120" target="-mIfDHSUPJoPvfxh9Jht-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-mIfDHSUPJoPvfxh9Jht-120" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;关键参数：&lt;/font&gt;&lt;/b&gt;&lt;br&gt;- _oid: page_h5&lt;br&gt;- s_cid: h5_url&lt;br&gt;- s_ctype: h5" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;dashed=1;fontColor=#666666;fillColor=none;strokeColor=#666666;align=left;" vertex="1" parent="1">
-          <mxGeometry x="834" y="620" width="120" height="100" as="geometry" />
+          <mxGeometry x="834" y="720" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-mIfDHSUPJoPvfxh9Jht-123" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;strokeColor=#666666;" edge="1" parent="1" source="-mIfDHSUPJoPvfxh9Jht-122" target="-mIfDHSUPJoPvfxh9Jht-113">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-mIfDHSUPJoPvfxh9Jht-122" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;关键参数：&lt;/font&gt;&lt;/b&gt;&lt;br&gt;- _oid: page_h5&lt;br&gt;- s_cid: h5_url&lt;br&gt;- s_ctype: h5" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;dashed=1;fontColor=#666666;fillColor=none;strokeColor=#666666;align=left;" vertex="1" parent="1">
-          <mxGeometry x="844" y="1010" width="120" height="100" as="geometry" />
+          <mxGeometry x="844" y="1110" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-mIfDHSUPJoPvfxh9Jht-125" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px&quot; color=&quot;#ff6666&quot;&gt;biz_h5_context格式&lt;br&gt;&amp;nbsp; - &lt;/font&gt;&lt;font style=&quot;font-size: 14px&quot; color=&quot;#ff6666&quot;&gt;相当于在 p_h5 节点的基础上，增加了 _h5_source_refer参数&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 14px&quot;&gt;&lt;font color=&quot;#b5739d&quot;&gt;biz_h5_context: {&lt;br&gt;&amp;nbsp; _oid: page_h5,&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#b5739d&quot;&gt;&amp;nbsp; s_cid: &#39;url_xxxx&#39;,&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#b5739d&quot;&gt;&amp;nbsp; s_ctype: &#39;h5&#39;,&lt;/font&gt;&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;&amp;nbsp; _h5_source_refer: page_h5_biz._pgrefer&lt;/font&gt;&lt;/b&gt;&lt;font color=&quot;#b5739d&quot;&gt;,&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#b5739d&quot;&gt;&amp;nbsp; _pgstep: 6&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(181 , 115 , 157)&quot;&gt;}&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;align=left;fontColor=#97D077;fillColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1160" width="430" height="161" as="geometry" />
+          <mxGeometry x="50" y="1260" width="430" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="-mIfDHSUPJoPvfxh9Jht-128" value="&lt;h1&gt;3. h5页面按钮点击（站内h5）&lt;/h1&gt;&lt;p&gt;1. btn_in_h5_1: 会打点击埋点&lt;br&gt;&amp;nbsp; &amp;nbsp;=&amp;gt; 一样是通过SDK来埋点&lt;br&gt;&amp;nbsp; &amp;nbsp;=&amp;gt; RPC/JSBridge: eventtracing.log&lt;/p&gt;&lt;p&gt;2. btn_in_h5_2:&lt;br&gt;&amp;nbsp; &amp;nbsp;=&amp;gt; 1) h5需要先调用 RPC/JSBridge (eventtracing.event)&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 该方法是为了将该点击事件作为一个refer存入SDK中&lt;b&gt;（SDK的refer队列）&lt;/b&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 存进去的完整格式: &lt;font color=&quot;#ff0000&quot;&gt;[e/p][_actseq][_pgstep][_spm]&lt;/font&gt;&lt;b style=&quot;color: rgb(255 , 0 , 0)&quot;&gt;[_refer_from_h5]&lt;br&gt;&lt;/b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; _refer_from_h5: 是 h5 内的refer标识&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 上面的格式是在普通 &lt;b&gt;_pgrefer/eventrefer&lt;/b&gt; 的基础上 增加了一个 &lt;b&gt;[_refer_from_h5]&amp;nbsp;&lt;/b&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 注: 这里的 &lt;b&gt;_pgrefer/eventrefer&lt;/b&gt;，以及&lt;b&gt;refer队列&lt;/b&gt; 参见 &lt;b&gt;refer 环节&lt;/b&gt;的讲解&lt;br&gt;&amp;nbsp; &amp;nbsp;=&amp;gt; 2) 然后h5再调用按钮的业务代码: 比如这里是打开另一个页面 B&lt;br&gt;&amp;nbsp; &amp;nbsp;=&amp;gt; 3) 页面 B 被打开&lt;br&gt;&amp;nbsp; &amp;nbsp;=&amp;gt; 4) 页面 B 在即将曝光的时候，会走 _pgrefer 获取逻辑 （该逻辑会用到refer队列）&lt;br&gt;&amp;nbsp; &amp;nbsp;=&amp;gt; 5) 最终结果:&amp;nbsp;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;B 页面的 _pgrefer 就等于 btn_in_h5_2 按钮的点击&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="39" y="1440" width="511" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
