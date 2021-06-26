@@ -1,1 +1,131 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T05:55:42.566Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.6.11" etag="As1odGmf2NO3Y60vdjg1" type="github"><diagram id="L4FBNL-UVDjdbO8Y7trN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-26T06:32:40.701Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="O5l6d3rQYJXDZKhu1uSS" version="14.6.11" type="github">
+  <diagram id="L4FBNL-UVDjdbO8Y7trN" name="Page-1">
+    <mxGraphModel dx="905" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="1400" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-2" value="&lt;b style=&quot;font-size: 15px&quot;&gt;先来看一张图&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;（摘自&quot;iOS设计方案概览&quot;）&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 15px&quot;&gt;:&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-4" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#F8CECC;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="120" width="600" height="152.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hzlUUfZDoiTQ5_s8J0j7-6" target="hzlUUfZDoiTQ5_s8J0j7-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-6" value="&lt;b&gt;Traverser&lt;br&gt;Runner&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="190" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hzlUUfZDoiTQ5_s8J0j7-8" target="hzlUUfZDoiTQ5_s8J0j7-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-8" value="&lt;b&gt;Traverser&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="190" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-9" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hzlUUfZDoiTQ5_s8J0j7-24" target="hzlUUfZDoiTQ5_s8J0j7-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="290" />
+              <mxPoint x="570" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-10" value="Push queue" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hzlUUfZDoiTQ5_s8J0j7-9">
+          <mxGeometry x="-0.1698" relative="1" as="geometry">
+            <mxPoint x="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-11" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;" edge="1" parent="1" source="hzlUUfZDoiTQ5_s8J0j7-12" target="hzlUUfZDoiTQ5_s8J0j7-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-12" value="&lt;b&gt;VTree&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="190" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-13" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hzlUUfZDoiTQ5_s8J0j7-14" target="hzlUUfZDoiTQ5_s8J0j7-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="295" y="345" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-15" value="&lt;b style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;VTree Task Queue:&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="345" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-16" value="T" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="405" y="370" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-17" value="T" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="449" y="370" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-18" value="T" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="495" y="370" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-19" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#CCFFCC;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="617.3" y="299.38" width="802.7" height="151.25" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-20" value="&lt;b style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Consume T(other thread):&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="627.3" y="305.63" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-21" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;" edge="1" parent="1" source="hzlUUfZDoiTQ5_s8J0j7-22" target="hzlUUfZDoiTQ5_s8J0j7-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-22" value="&lt;b&gt;遮挡计算&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="647.3" y="360.63" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="hzlUUfZDoiTQ5_s8J0j7-24" target="hzlUUfZDoiTQ5_s8J0j7-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-24" value="&lt;b&gt;Node Prepare Data&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="190" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-25" value="&lt;b style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Generate VTree(main thread):&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="130" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-26" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;" edge="1" parent="1" source="hzlUUfZDoiTQ5_s8J0j7-27" target="hzlUUfZDoiTQ5_s8J0j7-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-27" value="&lt;b&gt;生成可见节点数组&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="802.5999999999999" y="360.63" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-28" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;" edge="1" parent="1" source="hzlUUfZDoiTQ5_s8J0j7-29" target="hzlUUfZDoiTQ5_s8J0j7-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-29" value="&lt;b&gt;可见节点数组diff&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="952.3" y="360.63" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-30" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;" edge="1" parent="1" source="hzlUUfZDoiTQ5_s8J0j7-31" target="hzlUUfZDoiTQ5_s8J0j7-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-31" value="&lt;b&gt;曝光/反曝光&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1107.3" y="360.63" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-32" value="&lt;b&gt;output&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1267.3" y="360.63" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-33" value="&lt;h1&gt;Prepare Data（需要在主线程）&lt;/h1&gt;&lt;p&gt;1. 设置对象维度的params&lt;/p&gt;&lt;p&gt;2. 计算node维度的VisibleRect（结果都是相对于parentNode的值）&lt;br&gt;&amp;nbsp; - 一种是仅仅相对于parentNode的VisibleRect&lt;br&gt;&amp;nbsp; - 一种是向上递归view树计算的VisibleRect&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="802.6" y="100" width="390" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-35" value="&lt;h1&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;这么设计的原因&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;1. 虚拟树从构建，到可用，再到识别出 需要 曝光开始/曝光结束，需要挺多复杂逻辑&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;2. 整个项目在设计上，必须要保证一点，就是 &lt;font color=&quot;#ff0000&quot; style=&quot;font-weight: bold&quot;&gt;“性能”&lt;/font&gt;，不管业务多复杂，不能引起app卡顿 &amp;amp; CPU耗电明显增加的问题&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;3. 所以，要&lt;b&gt;尽量的减少主线程的CPU耗时&lt;/b&gt;，以及&lt;b&gt;尽可能的减少VTree的构建次数&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;4. 当然了，还必须要能足够 &lt;b&gt;“智能”&lt;/b&gt; 的识别出需要再次构建VTree了，不然 &lt;b&gt;“曝光开始/结束埋点”&lt;/b&gt; 会不准确&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;5. 同时，SDK也支持了列表滚动过程中做曝光检测，那对性能要求更加高了，不能造成滑动卡顿&lt;/font&gt;&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;align=left;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="570" width="530" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-36" value="&lt;h1&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;1. 设计之 “CPU空闲时才构建”&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;1. 构建VTree也是一个耗时操作，放在&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;CPU空闲的时候再做&lt;/font&gt;&lt;/b&gt;，可以极大的确保不会影响帧率&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;2. iOS是通过runlopp的observer来监控 RunloopBeforeWaiting 时机来构建&lt;/font&gt;&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;align=left;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="890" width="530" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-37" value="&lt;h1&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;2. 设计之 “减少构建次数”&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;1. 在AOP层面，做了非常多的hock，基本上是app有一点的风吹草动，就有可能会触发VTree构建&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;2. 这样才能确保不会遗漏场景，曝光开始/结束 都能及时的完成&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;3. 但是&lt;b&gt;并不会每一个的UI变动，都会有必要引起VTree重建，可能很多时候都可以预测重建后VTree没有发生变化&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;4. 比如，一个View发生了变动，但是它自己本身不是节点，自己的所有子view也都不是节点，那就可以直接忽略&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;5. 或者一个元素之前就是不可见，现在发生了一些变动，那就可以直接忽略&lt;/font&gt;&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;align=left;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1080" width="530" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-38" value="&lt;h1&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;3. 设计之 “局部增量构建”&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;1. 普通的UI变动，都是以全量构建的方式创建新的VTree&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;2. 列表滚动模式下，仅仅做 &lt;b&gt;“列表以及子view的局部构建”&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;3. iOS通过 RunloopMode 来区分是 全量还是局部构建虚拟树&lt;/font&gt;&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;align=left;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1440" width="530" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-39" value="&lt;h1&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;4. 设计之 “压缩主线程耗时”&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;1. 构建虚拟树，不少操作只能放在主线程，比如UIView的层级遍历，UIView的坐标系统转换&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;2. 除了必须的操作其他逻辑，一律放在子线程来进行，比如子页面遮挡，比如曝光的判断等&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;3. 以iPhone8手机，云音乐最复杂的首页列表举例，全量构建VTree大概在3ms，增量构建在1.5ms左右&lt;/font&gt;&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;align=left;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1650" width="530" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="hzlUUfZDoiTQ5_s8J0j7-40" value="&lt;h1&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;5. 设计之 “Runloop剩余时长”&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;1. 一般手机都是每秒60帧，一帧也就是 16.7ms，也就是主线程CPU耗时，不能持续被占用超过16.7ms&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;2. 通过计算本次runloop在进入 RunloopBeforeWaiting 状态时已经使用了的时长，得出最大可能剩余时长&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;3. 保险起见，&lt;b&gt;本次剩余时长至少要剩余 1/2 ，也就是8ms才做VTree构建&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;4. 这样可以&lt;b&gt;基本上保证不会因为主线程加入了虚拟树构建而产生额外的掉帧现象&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;align=left;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1880" width="530" height="230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
