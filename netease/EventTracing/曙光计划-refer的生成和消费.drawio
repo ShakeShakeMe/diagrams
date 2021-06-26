@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T04:45:56.588Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="rxIugOcrSxsgZTEjdDbS" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-26T05:50:25.015Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="_yQEMCXp58gC8-qD-0OK" version="14.6.11" type="github">
   <diagram id="_ZPEgi9wng2458FTJGSn" name="Page-1">
-    <mxGraphModel dx="905" dy="1758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2290" dy="2347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-77" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=13;fontColor=#000000;strokeWidth=1;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="660" y="955" width="590" height="345" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-54" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=13;fontColor=#000000;strokeWidth=1;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="662.5" y="300" width="587.5" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-53" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=13;fontColor=#000000;strokeWidth=1;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="660" y="630" width="590" height="250" as="geometry" />
+        </mxCell>
         <mxCell id="CS7jje6rmYeDG2XOKvHa-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fontColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="40" y="-1100" width="710" height="660" as="geometry" />
         </mxCell>
@@ -77,8 +86,239 @@
         <mxCell id="CS7jje6rmYeDG2XOKvHa-33" value="&lt;b&gt;song_3&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1225" y="-650" width="175" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CS7jje6rmYeDG2XOKvHa-34" value="&lt;h1&gt;1. 点击事件的AOP&lt;/h1&gt;&lt;p&gt;1. 点击事件的AOP，目前做了以下几个场景:&lt;br&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp;=&amp;gt; 1) UIView 的tap gesture点击&lt;br&gt;&amp;nbsp; &amp;nbsp;=&amp;gt; 2) UIControl的 target-action UIControlEventTouchUpInside 事件&lt;br&gt;&amp;nbsp; &amp;nbsp;=&amp;gt; 3) UITableViewCell &amp;amp; UICollectionViewCell 的点击事件&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;2. 点击事件的AOP，是 &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;pre &amp;amp;&amp;amp; after&lt;/font&gt;&lt;/b&gt; 前后都hock的&lt;/p&gt;&lt;p&gt;3. 详细请参阅 &lt;b&gt;AOP环节&lt;/b&gt; 的讲解&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#000000;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="-340" width="430" height="170" as="geometry" />
+        <mxCell id="CS7jje6rmYeDG2XOKvHa-34" value="&lt;h1&gt;2. 点击事件的AOP&lt;/h1&gt;&lt;p&gt;1. 点击事件的AOP，目前做了以下几个场景:&lt;br&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp;=&amp;gt; 1) UIView 的tap gesture点击&lt;br&gt;&amp;nbsp; &amp;nbsp;=&amp;gt; 2) UIControl的 target-action UIControlEventTouchUpInside 事件&lt;br&gt;&amp;nbsp; &amp;nbsp;=&amp;gt; 3) UITableViewCell &amp;amp; UICollectionViewCell 的点击事件&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;2. 点击事件的AOP，是 &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;pre &amp;amp;&amp;amp; after&lt;/font&gt;&lt;/b&gt; 前后都hock的&lt;/p&gt;&lt;p&gt;3. 详细请参阅 &lt;b&gt;AOP环节&lt;/b&gt; 的讲解&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#000000;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-50" width="430" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x_XK1Yig7gq4vAHvtXbg-1" target="x_XK1Yig7gq4vAHvtXbg-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-1" value="一个按钮的点击" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="547.5" y="75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="727.5" y="-50" width="470" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x_XK1Yig7gq4vAHvtXbg-4" target="x_XK1Yig7gq4vAHvtXbg-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-4" value="original &lt;br&gt;click code" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="902.5" y="75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x_XK1Yig7gq4vAHvtXbg-5" target="x_XK1Yig7gq4vAHvtXbg-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-5" value="pre" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="748" y="75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-6" value="after" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1057.5" y="75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-10" value="&lt;h1&gt;1. 两个队列 queue&lt;/h1&gt;&lt;p&gt;1. &lt;b&gt;_pgrefer 队列&lt;/b&gt;（页面refer）&amp;nbsp; &amp;amp;&amp;amp; &lt;b&gt;EventRefer 队列&lt;/b&gt; （事件refer）&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;2. &lt;b&gt;_pgrefer 队列&lt;/b&gt;: 为页面的 _pgrefer &amp;amp; _psrefer &amp;amp; _hsrefer的生成服务，专指页面跳转场景&lt;br&gt;&lt;/p&gt;&lt;p&gt;3. &lt;b&gt;EventRefer 队列&lt;/b&gt;: 为一个事件对后续一些业务埋点产生的效果而服务&lt;/p&gt;&lt;p&gt;4. 举例（最上面的大图）:&lt;br&gt;&amp;nbsp; &amp;nbsp; 1) 页面 A 的按钮 a1 点击跳转到了 B 页面，则 B 页面的_pgrefer 就指向了 A.a1 点击&lt;br&gt;&amp;nbsp; &amp;nbsp; 2) 页面 A 的按钮 a2 点击，是将5首歌添加到播放列表，则这五首歌的 _addrefer 就指向 A.a2 点击&lt;/p&gt;&lt;p&gt;5. _pgrefer队列 的详细讲解参见 &lt;b&gt;refer环节&lt;/b&gt; 讲解&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-350" width="550" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-11" value="&lt;h1&gt;3. EventRefer 的问题 &amp;amp; 解决方案&lt;/h1&gt;&lt;p&gt;1. EventRefer的格式(解读见右图): [_sessid][p/e][_actseq][_pgstep][_spm]&lt;/p&gt;&lt;p&gt;2. 问题点: &lt;br&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 1) _actseq在SDK内是在点击事件埋点即将输出的时候才自增的，而且是在子线程处理的&lt;br&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 2) 所以在添加歌曲到播放列表代码执行的时候，_actseq还未 +1 (业务方应该在这里使用_addrefer)&lt;br&gt;&lt;/p&gt;&lt;p&gt;3. 解决办法:&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 1) 在点击事件前后 pre &amp;amp; after 分别hock&lt;br&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 2) 在 pre 环节，取出 _sessid, e/p, _actseq, _pgstep, _spm 等参数&lt;br&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 3) 其中 _actseq 是需要 &lt;font color=&quot;#ff0000&quot; style=&quot;font-weight: bold&quot;&gt;预加1&lt;/font&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 4) 然后将该 refer 存入 EventRefer 队列&lt;br&gt;&lt;/p&gt;&lt;p&gt;4. 效果: 提供全局方法，可以获取上一次的 EventRefer，这样对于歌曲播放，业务开发人员不需要关注，只需要在播放器层面取最后一次即可&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="300" width="560" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="728" y="435" width="402" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-14" value="[_sessid]" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;fontColor=#CC00CC;strokeColor=#CC00CC;" vertex="1" parent="1">
+          <mxGeometry x="750" y="447.5" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-15" value="[e/p]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="827" y="447.5" width="53" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-16" value="[_actseq]" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;fontColor=#FF0000;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="890" y="447.5" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-17" value="[_pgstep]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="969.5" y="447.5" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-18" value="[_spm]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="447.5" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#CC00CC;strokeColor=#CC00CC;dashed=1;" edge="1" parent="1" source="x_XK1Yig7gq4vAHvtXbg-19" target="x_XK1Yig7gq4vAHvtXbg-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-19" value="&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;事件发生的时候的 _sessid&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;dashed=1;fontSize=16;strokeColor=#CC00CC;strokeWidth=2;fontColor=#CC00CC;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="675" y="330" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=16;fontColor=#666666;strokeColor=#666666;" edge="1" parent="1" source="x_XK1Yig7gq4vAHvtXbg-21" target="x_XK1Yig7gq4vAHvtXbg-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-21" value="&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;事件发生的节点是page还是element&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;dashed=1;fontSize=16;strokeWidth=2;fillColor=none;strokeColor=#666666;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="855" y="310" width="115" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=16;fontColor=#666666;strokeColor=#FF0000;" edge="1" parent="1" source="x_XK1Yig7gq4vAHvtXbg-23" target="x_XK1Yig7gq4vAHvtXbg-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-23" value="&lt;b style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px ; text-align: left&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;在当前 rootpage 范围内发生的第几次“交互”&lt;/font&gt;&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;dashed=1;fontSize=16;strokeWidth=2;fontColor=#CC00CC;fillColor=none;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="802.5" y="525" width="245" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=16;fontColor=#666666;strokeColor=#666666;" edge="1" parent="1" source="x_XK1Yig7gq4vAHvtXbg-25" target="x_XK1Yig7gq4vAHvtXbg-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-25" value="&lt;span style=&quot;font-size: 12px ; text-align: left&quot;&gt;事件发生时的页面深度&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;dashed=1;fontSize=16;strokeWidth=2;fillColor=none;fontColor=#666666;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="990" y="320" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;fontSize=16;fontColor=#666666;strokeColor=#666666;" edge="1" parent="1" source="x_XK1Yig7gq4vAHvtXbg-27" target="x_XK1Yig7gq4vAHvtXbg-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-27" value="&lt;span style=&quot;font-size: 12px ; text-align: left&quot;&gt;节点的spm&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;dashed=1;fontSize=16;strokeWidth=2;fillColor=none;fontColor=#666666;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="520" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-33" value="Time线" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1107.5" y="780" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-34" value="" style="shape=flexArrow;endArrow=classic;html=1;dashed=1;fontSize=16;fontColor=#000000;strokeColor=#666666;startArrow=none;" edge="1" parent="1" source="x_XK1Yig7gq4vAHvtXbg-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="728" y="770" as="sourcePoint" />
+            <mxPoint x="1208" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-35" value="" style="endArrow=classic;html=1;dashed=1;fontSize=16;fontColor=#000000;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="768" y="760" as="sourcePoint" />
+            <mxPoint x="868" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="808" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-38" value="" style="shape=flexArrow;endArrow=classic;html=1;dashed=1;fontSize=16;fontColor=#000000;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="868" y="680" as="sourcePoint" />
+            <mxPoint x="1098" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-39" value="子线程: EventEmiter线程" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="867" y="650" width="161" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-40" value="" style="endArrow=classic;html=1;dashed=1;fontSize=13;fontColor=#000000;strokeColor=#666666;startArrow=none;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1028" y="690" as="sourcePoint" />
+            <mxPoint x="1158" y="730" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1048" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-42" value="" style="endArrow=none;html=1;dashed=1;fontSize=13;fontColor=#000000;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1038" y="690" as="sourcePoint" />
+            <mxPoint x="1041.3333333333333" y="686" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-45" value="" style="endArrow=classic;html=1;dashed=1;fontSize=13;fontColor=#000000;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="854.5" y="1185" as="sourcePoint" />
+            <mxPoint x="974.5" y="1255" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="884.5" y="1255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-47" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=13;fontColor=#000000;strokeWidth=2;fillColor=none;strokeColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="838" y="763" width="140" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-48" value="" style="shape=flexArrow;endArrow=none;html=1;dashed=1;fontSize=16;fontColor=#000000;strokeColor=#666666;" edge="1" parent="1" target="x_XK1Yig7gq4vAHvtXbg-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="728" y="770" as="sourcePoint" />
+            <mxPoint x="1338" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-49" value="业务: 添加歌曲到播放列表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="832.5" y="1265" width="168" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-50" value="按钮点击" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="735.5" y="680" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-51" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;_actseq+1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1050.5" y="710" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-55" value="" style="shape=flexArrow;endArrow=classic;html=1;dashed=1;fontSize=13;fontColor=#000000;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710.5" y="1180" as="sourcePoint" />
+            <mxPoint x="1240.5" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-56" value="Time线" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1150.5" y="1149" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-57" value="" style="endArrow=classic;html=1;dashed=1;fontSize=13;fontColor=#000000;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="763" y="1170" as="sourcePoint" />
+            <mxPoint x="883" y="1090" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="783" y="1090" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-58" value="按钮点击 &lt;b&gt;pre&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="703" y="1080" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-59" value="" style="endArrow=classic;html=1;dashed=1;fontSize=13;fontColor=#000000;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1083.5" y="1170" as="sourcePoint" />
+            <mxPoint x="1203.5" y="1090" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1103.5" y="1090" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-60" value="按钮点击 &lt;b&gt;after&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1019" y="1080" width="94" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-61" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=13;fontColor=#000000;strokeWidth=2;fillColor=none;strokeColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="853" y="1175" width="140" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;strokeColor=#666666;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="834" y="990" width="249" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-67" value="refer_0" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=13;fontColor=#000000;strokeColor=#666666;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="848" y="995" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-68" value="refer_1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=13;fontColor=#000000;strokeColor=#666666;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="903" y="995" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-69" value="refer_2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=13;fontColor=#000000;strokeColor=#666666;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="955.5" y="995" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-70" value="refer_3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=13;fontColor=#000000;strokeColor=#666666;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1013" y="995" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-71" value="" style="endArrow=classic;html=1;dashed=1;fontSize=13;fontColor=#000000;strokeColor=#666666;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="x_XK1Yig7gq4vAHvtXbg-58" target="x_XK1Yig7gq4vAHvtXbg-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740.5" y="1070" as="sourcePoint" />
+            <mxPoint x="790.5" y="1020" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="763.5" y="1030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-72" value="push" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="763" y="1030" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-73" value="EventRefer Queue" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="834" y="970" width="125" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-74" value="" style="endArrow=classic;html=1;dashed=1;fontSize=13;fontColor=#000000;strokeColor=#666666;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="x_XK1Yig7gq4vAHvtXbg-64" target="x_XK1Yig7gq4vAHvtXbg-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="930.5" y="1130" as="sourcePoint" />
+            <mxPoint x="980.5" y="1080" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="990.5" y="1220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-75" value="取一个refer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontColor=#000000;" vertex="1" connectable="0" parent="x_XK1Yig7gq4vAHvtXbg-74">
+          <mxGeometry x="0.5442" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x_XK1Yig7gq4vAHvtXbg-80" value="&lt;h1&gt;4. EventRefer 自动获取的容错处理&lt;/h1&gt;&lt;p&gt;&lt;span&gt;1. 原因: 有可能会取错，比如上一个按钮没有做埋点，不是一个对象，则可能去的EventRefer是前一个按钮的点击&lt;/span&gt;&lt;/p&gt;&lt;p&gt;2. 解决:&lt;br&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 1) 在 点击的pre 环节，将依赖view层级的 &lt;b&gt;pure_spm&lt;/b&gt; 存储下，并且记录时间&lt;br&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 2) 等待取 EventRefer 的时候，同时也取出 pre_spm&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 3) 对比下两个时间: &lt;b&gt;如果 pre_spm 比 EventRefer更晚，说明该EventRefer大概率是错误的&lt;/b&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 4) 可以在埋点的时候，以某种方式来标识出来&lt;/p&gt;&lt;p&gt;3. 云音乐的解决方案: EventRefer对应的是 _addrefer，如果识别出了是错误的，则再带上 _undefined_refer(pure_spm)&lt;br&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 对于云音乐有严重历史负担的app场景，比较实用&lt;br&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; &lt;b&gt;随着埋点场景逐渐覆盖，_undefined_refer 渐渐都没有了值&lt;/b&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; &lt;b&gt;也可以利用该特性做校验，被标识出了错误，基本上就是需要修改的&lt;/b&gt;&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="1350" width="560" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
