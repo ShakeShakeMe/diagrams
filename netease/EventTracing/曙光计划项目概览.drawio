@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-30T04:00:49.047Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="uwDsXz5SreFdw1Z1F--l" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-30T04:02:35.348Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="bGx53wIDBdbGPCCMEgY-" version="14.8.1" type="github">
   <diagram id="OGqdX2qpAvw4MMGJ-15T" name="Page-1">
     <mxGraphModel dx="2025" dy="3467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="1902" y="230" width="88.18" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wdpxD67CT94Qs2L8YtQn-374" value="" style="whiteSpace=wrap;html=1;dashed=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="20" y="-2210" width="960" height="590" as="geometry" />
+          <mxGeometry x="20" y="-2210" width="860" height="490" as="geometry" />
         </mxCell>
         <mxCell id="wdpxD67CT94Qs2L8YtQn-375" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="wdpxD67CT94Qs2L8YtQn-377" target="wdpxD67CT94Qs2L8YtQn-378" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -54,41 +54,16 @@
             <mxPoint x="295" y="-1860" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wdpxD67CT94Qs2L8YtQn-386" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;fontColor=#666666;" parent="1" source="wdpxD67CT94Qs2L8YtQn-387" edge="1">
+        <mxCell id="wdpxD67CT94Qs2L8YtQn-386" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;fontColor=#666666;" parent="1" source="wdpxD67CT94Qs2L8YtQn-387" target="wdpxD67CT94Qs2L8YtQn-391" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="660" y="-1860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wdpxD67CT94Qs2L8YtQn-387" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#ffffff&quot;&gt;2. 设置&lt;br&gt;对象参数&lt;/font&gt;" style="triangle;whiteSpace=wrap;html=1;rounded=0;strokeWidth=3;fontColor=#666666;strokeColor=none;fillColor=#67AB9F;align=left;" parent="1" vertex="1">
-          <mxGeometry x="414" y="-1915" width="90" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="wdpxD67CT94Qs2L8YtQn-388" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;fontColor=#666666;" parent="1" source="bruH5l3N4U-UVjHV4FLP-2" target="bruH5l3N4U-UVjHV4FLP-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="580" y="-1720" />
-              <mxPoint x="580" y="-1860" />
-            </Array>
-            <mxPoint x="480" y="-1720" as="sourcePoint" />
-            <mxPoint x="660" y="-1860" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wdpxD67CT94Qs2L8YtQn-390" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;fontColor=#666666;" parent="1" target="bruH5l3N4U-UVjHV4FLP-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="295" y="-1860" as="sourcePoint" />
-            <mxPoint x="420" y="-1720" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="340" y="-1860" />
-              <mxPoint x="340" y="-1720" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="wdpxD67CT94Qs2L8YtQn-387" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;2. 开发中&lt;/span&gt;&lt;/font&gt;" style="triangle;whiteSpace=wrap;html=1;rounded=0;strokeWidth=3;fontColor=#666666;strokeColor=none;fillColor=#67AB9F;align=left;" parent="1" vertex="1">
+          <mxGeometry x="445" y="-1915" width="90" height="110" as="geometry" />
         </mxCell>
         <mxCell id="wdpxD67CT94Qs2L8YtQn-391" value="埋点完成" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;strokeWidth=3;strokeColor=#009900;fillColor=#9AC7BF;fontColor=#FFFFFF;fontStyle=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="840" y="-1900" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="wdpxD67CT94Qs2L8YtQn-392" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;fontColor=#666666;" parent="1" source="bruH5l3N4U-UVjHV4FLP-4" target="wdpxD67CT94Qs2L8YtQn-391" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="720" y="-1860" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="710" y="-1900" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wdpxD67CT94Qs2L8YtQn-394" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;开发对接简化流程：&lt;/font&gt;&lt;/b&gt;" style="text;html=1;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="30" y="-2200" width="290" height="30" as="geometry" />
@@ -662,14 +637,8 @@
         <mxCell id="wdpxD67CT94Qs2L8YtQn-569" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;埋点对象管理平台：&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="-1450" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bruH5l3N4U-UVjHV4FLP-1" value="&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-size: 14px&quot;&gt;1. 对齐&lt;br&gt;树状结构&lt;/span&gt;" style="triangle;whiteSpace=wrap;html=1;rounded=0;strokeWidth=3;fontColor=#666666;strokeColor=none;fillColor=#67AB9F;align=left;" vertex="1" parent="1">
-          <mxGeometry x="210" y="-1915" width="90" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="bruH5l3N4U-UVjHV4FLP-2" value="&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-size: 14px&quot;&gt;3. 自定义&lt;br&gt;埋点事件&lt;br&gt;&lt;/span&gt;" style="triangle;whiteSpace=wrap;html=1;rounded=0;strokeWidth=3;fontColor=#666666;strokeColor=none;fillColor=#67AB9F;align=left;" vertex="1" parent="1">
-          <mxGeometry x="410" y="-1775" width="90" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="bruH5l3N4U-UVjHV4FLP-4" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#ffffff&quot;&gt;4. 埋点&lt;br&gt;&amp;nbsp; &amp;nbsp; 校验&lt;br&gt;&lt;/font&gt;" style="triangle;whiteSpace=wrap;html=1;rounded=0;strokeWidth=3;fontColor=#666666;strokeColor=none;fillColor=#67AB9F;align=left;" vertex="1" parent="1">
-          <mxGeometry x="654" y="-1915" width="90" height="110" as="geometry" />
+        <mxCell id="bruH5l3N4U-UVjHV4FLP-1" value="&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-size: 14px&quot;&gt;1. 从埋点&lt;br&gt;平台获取&lt;/span&gt;" style="triangle;whiteSpace=wrap;html=1;rounded=0;strokeWidth=3;fontColor=#666666;strokeColor=none;fillColor=#67AB9F;align=left;" vertex="1" parent="1">
+          <mxGeometry x="242.5" y="-1915" width="90" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
