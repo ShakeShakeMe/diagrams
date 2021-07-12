@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T09:55:57.552Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="X7Uzs4GfcQAwjkCv_GUL" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-12T10:00:06.581Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="WoCnJtQMUGC1XULSXt59" version="14.8.5" type="github">
   <diagram id="6nu6wC9H32lUqhMNFaVd" name="Page-1">
     <mxGraphModel dx="2025" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -200,61 +200,55 @@
         <mxCell id="NThgxDd1clSjv3KLgz4_-53" value="&lt;h1&gt;录制开始，环境保存&lt;/h1&gt;&lt;p&gt;1. 开始录制时，先将环境变量信息保存一番，包括且不限于如下:&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 1) 网络环境设置: 比如当前是 qa-test 网络&lt;br&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 2) mock列表记录: 当前正在mock的接口列表，记录mock信息&lt;br&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 3) 当前登录情况: 比如当前用户是 dingli/xxxxx 账号&lt;br&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 4)&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="800" y="40" width="400" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="NThgxDd1clSjv3KLgz4_-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="NThgxDd1clSjv3KLgz4_-54" target="NThgxDd1clSjv3KLgz4_-60">
+        <mxCell id="NThgxDd1clSjv3KLgz4_-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#000000;strokeWidth=2;" edge="1" parent="1" source="NThgxDd1clSjv3KLgz4_-54" target="NThgxDd1clSjv3KLgz4_-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NThgxDd1clSjv3KLgz4_-54" value="录制开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66CC00;strokeColor=none;fontSize=14;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="NThgxDd1clSjv3KLgz4_-54" value="录制开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fontSize=14;fontStyle=1;fontColor=#FFFFFF;fillColor=#007FFF;" vertex="1" parent="1">
           <mxGeometry x="434" y="910" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NThgxDd1clSjv3KLgz4_-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="NThgxDd1clSjv3KLgz4_-56" target="NThgxDd1clSjv3KLgz4_-54">
+        <mxCell id="NThgxDd1clSjv3KLgz4_-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#000000;strokeWidth=2;" edge="1" parent="1" source="NThgxDd1clSjv3KLgz4_-56" target="NThgxDd1clSjv3KLgz4_-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NThgxDd1clSjv3KLgz4_-56" value="进入到&lt;br&gt;开始用例开始页面" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="NThgxDd1clSjv3KLgz4_-56" value="进入到&lt;br&gt;开始用例开始页面" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#99CCFF;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="414" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NThgxDd1clSjv3KLgz4_-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="NThgxDd1clSjv3KLgz4_-57" target="NThgxDd1clSjv3KLgz4_-56">
+        <mxCell id="NThgxDd1clSjv3KLgz4_-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#808080;dashed=1;strokeWidth=2;strokeColor=#666666;" edge="1" parent="1" source="NThgxDd1clSjv3KLgz4_-60" target="NThgxDd1clSjv3KLgz4_-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NThgxDd1clSjv3KLgz4_-57" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="459" y="630" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NThgxDd1clSjv3KLgz4_-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#808080;dashed=1;" edge="1" parent="1" source="NThgxDd1clSjv3KLgz4_-60" target="NThgxDd1clSjv3KLgz4_-62">
+        <mxCell id="NThgxDd1clSjv3KLgz4_-68" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#808080;strokeWidth=2;" edge="1" parent="1" source="NThgxDd1clSjv3KLgz4_-60" target="NThgxDd1clSjv3KLgz4_-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NThgxDd1clSjv3KLgz4_-68" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#808080;" edge="1" parent="1" source="NThgxDd1clSjv3KLgz4_-60" target="NThgxDd1clSjv3KLgz4_-65">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NThgxDd1clSjv3KLgz4_-60" value="环境记录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="NThgxDd1clSjv3KLgz4_-60" value="环境记录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#66B2FF;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="414" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NThgxDd1clSjv3KLgz4_-62" value="&lt;h1&gt;环境记录&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;1. 开始录制时，先将环境变量信息保存一番，包括且不限于如下:&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 1) 网络环境设置: 比如当前是 qa-test 网络&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 2) mock列表记录: 当前正在mock的接口列表，记录mock信息&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 3) 当前登录情况: 比如当前用户是 dingli/xxxxx 账号&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 4) 当前是什么页面，比如 `歌单详情页`&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;2. 这里应该记录一个比较&lt;b&gt;完整的环境信息&lt;/b&gt;，做到不管在什么情况下，执行用例时，都可以将执行环境 `&lt;b&gt;还原&lt;/b&gt;`，使得用例执行环境的 `&lt;b&gt;稳定&lt;/b&gt;`&lt;/span&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;fillColor=#DEF2DD;fontColor=#808080;" vertex="1" parent="1">
+        <mxCell id="NThgxDd1clSjv3KLgz4_-62" value="&lt;h1&gt;环境记录&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;1. 开始录制时，先将环境变量信息保存一番，包括且不限于如下:&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 1) 网络环境设置: 比如当前是 qa-test 网络&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 2) mock列表记录: 当前正在mock的接口列表，记录mock信息&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 3) 当前登录情况: 比如当前用户是 dingli/xxxxx 账号&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 4) 当前是什么页面，比如 `歌单详情页`&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;2. 这里应该记录一个比较&lt;b&gt;完整的环境信息&lt;/b&gt;，做到不管在什么情况下，执行用例时，都可以将执行环境 `&lt;b&gt;还原&lt;/b&gt;`，使得用例执行环境的 `&lt;b&gt;稳定&lt;/b&gt;`&lt;/span&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;fontColor=#808080;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="690" y="972.5" width="390" height="195" as="geometry" />
         </mxCell>
-        <mxCell id="NThgxDd1clSjv3KLgz4_-70" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#808080;" edge="1" parent="1" source="NThgxDd1clSjv3KLgz4_-64" target="NThgxDd1clSjv3KLgz4_-66">
+        <mxCell id="NThgxDd1clSjv3KLgz4_-70" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#808080;strokeWidth=2;" edge="1" parent="1" source="NThgxDd1clSjv3KLgz4_-64" target="NThgxDd1clSjv3KLgz4_-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NThgxDd1clSjv3KLgz4_-80" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=15;fontColor=#666666;" edge="1" parent="1" source="NThgxDd1clSjv3KLgz4_-64" target="NThgxDd1clSjv3KLgz4_-77">
+        <mxCell id="NThgxDd1clSjv3KLgz4_-80" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=15;fontColor=#666666;strokeWidth=2;strokeColor=#666666;" edge="1" parent="1" source="NThgxDd1clSjv3KLgz4_-64" target="NThgxDd1clSjv3KLgz4_-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NThgxDd1clSjv3KLgz4_-64" value="用户操作1&lt;br&gt;(click)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="NThgxDd1clSjv3KLgz4_-64" value="用户操作1&lt;br&gt;(click)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#66B2FF;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="414" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NThgxDd1clSjv3KLgz4_-69" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#808080;" edge="1" parent="1" source="NThgxDd1clSjv3KLgz4_-65" target="NThgxDd1clSjv3KLgz4_-64">
+        <mxCell id="NThgxDd1clSjv3KLgz4_-69" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#808080;strokeWidth=2;" edge="1" parent="1" source="NThgxDd1clSjv3KLgz4_-65" target="NThgxDd1clSjv3KLgz4_-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NThgxDd1clSjv3KLgz4_-79" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#666666;dashed=1;" edge="1" parent="1" source="NThgxDd1clSjv3KLgz4_-65" target="NThgxDd1clSjv3KLgz4_-77">
+        <mxCell id="NThgxDd1clSjv3KLgz4_-79" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#666666;dashed=1;strokeWidth=2;strokeColor=#666666;" edge="1" parent="1" source="NThgxDd1clSjv3KLgz4_-65" target="NThgxDd1clSjv3KLgz4_-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NThgxDd1clSjv3KLgz4_-65" value="用户操作2&lt;br&gt;(scroll)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="NThgxDd1clSjv3KLgz4_-65" value="用户操作2&lt;br&gt;(scroll)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#66B2FF;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="414" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NThgxDd1clSjv3KLgz4_-81" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=15;fontColor=#666666;" edge="1" parent="1" source="NThgxDd1clSjv3KLgz4_-66" target="NThgxDd1clSjv3KLgz4_-77">
+        <mxCell id="NThgxDd1clSjv3KLgz4_-81" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=15;fontColor=#666666;strokeWidth=2;strokeColor=#666666;" edge="1" parent="1" source="NThgxDd1clSjv3KLgz4_-66" target="NThgxDd1clSjv3KLgz4_-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NThgxDd1clSjv3KLgz4_-84" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#666666;" edge="1" parent="1" source="NThgxDd1clSjv3KLgz4_-66" target="NThgxDd1clSjv3KLgz4_-83">
+        <mxCell id="NThgxDd1clSjv3KLgz4_-84" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#666666;strokeWidth=2;" edge="1" parent="1" source="NThgxDd1clSjv3KLgz4_-66" target="NThgxDd1clSjv3KLgz4_-83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NThgxDd1clSjv3KLgz4_-66" value="用户操作3&lt;br&gt;(input)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="NThgxDd1clSjv3KLgz4_-66" value="用户操作3&lt;br&gt;(input)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#66B2FF;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="414" y="1570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NThgxDd1clSjv3KLgz4_-75" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#808080;" edge="1" parent="1" source="NThgxDd1clSjv3KLgz4_-71" target="NThgxDd1clSjv3KLgz4_-72">
@@ -275,26 +269,35 @@
         <mxCell id="NThgxDd1clSjv3KLgz4_-78" value="用户单步操作流程" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#666666;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="720" y="1260" width="140" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="NThgxDd1clSjv3KLgz4_-86" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#666666;" edge="1" parent="1" source="NThgxDd1clSjv3KLgz4_-83" target="NThgxDd1clSjv3KLgz4_-85">
+        <mxCell id="NThgxDd1clSjv3KLgz4_-86" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#666666;strokeWidth=2;" edge="1" parent="1" source="NThgxDd1clSjv3KLgz4_-83" target="NThgxDd1clSjv3KLgz4_-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NThgxDd1clSjv3KLgz4_-83" value="录制停止" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66CC00;strokeColor=none;fontSize=14;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="NThgxDd1clSjv3KLgz4_-83" value="录制停止" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fontSize=14;fontStyle=1;fontColor=#FFFFFF;fillColor=#007FFF;" vertex="1" parent="1">
           <mxGeometry x="434" y="1730" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NThgxDd1clSjv3KLgz4_-88" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#666666;" edge="1" parent="1" source="NThgxDd1clSjv3KLgz4_-85" target="NThgxDd1clSjv3KLgz4_-87">
+        <mxCell id="NThgxDd1clSjv3KLgz4_-88" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#666666;strokeWidth=2;" edge="1" parent="1" source="NThgxDd1clSjv3KLgz4_-85" target="NThgxDd1clSjv3KLgz4_-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NThgxDd1clSjv3KLgz4_-85" value="保存用例数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="NThgxDd1clSjv3KLgz4_-85" value="保存用例数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;fillColor=#CCCCFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="600" y="1740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NThgxDd1clSjv3KLgz4_-90" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#666666;" edge="1" parent="1" source="NThgxDd1clSjv3KLgz4_-87" target="NThgxDd1clSjv3KLgz4_-89">
+        <mxCell id="NThgxDd1clSjv3KLgz4_-90" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#666666;strokeWidth=2;" edge="1" parent="1" source="NThgxDd1clSjv3KLgz4_-87" target="NThgxDd1clSjv3KLgz4_-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NThgxDd1clSjv3KLgz4_-87" value="&lt;span&gt;预览/少量编辑&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="NThgxDd1clSjv3KLgz4_-87" value="&lt;span&gt;预览/少量编辑&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;fillColor=#CCCCFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="820" y="1740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NThgxDd1clSjv3KLgz4_-89" value="上传用例到平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="NThgxDd1clSjv3KLgz4_-89" value="上传用例到平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;fillColor=#CCCCFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1010" y="1740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NThgxDd1clSjv3KLgz4_-91" value="用例执行" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fontSize=14;fontStyle=1;fontColor=#FFFFFF;fillColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NThgxDd1clSjv3KLgz4_-95" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#666666;strokeWidth=2;" edge="1" parent="1" source="NThgxDd1clSjv3KLgz4_-93" target="NThgxDd1clSjv3KLgz4_-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NThgxDd1clSjv3KLgz4_-93" value="测试人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;labelBackgroundColor=#ffffff;fontSize=14;strokeWidth=3;fontStyle=1;fillColor=#007FFF;strokeColor=#007FFF;fontColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="459" y="620" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
