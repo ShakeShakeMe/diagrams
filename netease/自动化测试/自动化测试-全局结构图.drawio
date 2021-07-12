@@ -1,1 +1,233 @@
-<mxfile host="Electron" modified="2021-07-12T08:53:24.313Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/14.6.13 Chrome/89.0.4389.128 Electron/12.0.7 Safari/537.36" etag="9VTYKe_uljxbWfuTh3RE" version="14.6.13" type="device"><diagram id="odYxR9brROfHomilIwXA" name="Page-1">ddHNEoIgEADgp+Gu0JiezfLSyUNnRjZhBl0HabSePh0wY6wTy7cLyw9heTtdDO/lFQVoQiMxEXYilMYJPczDIk8nWZI6aIwSvmiDSr3AY+T1oQQMQaFF1Fb1IdbYdVDbwLgxOIZld9Rh1543sIOq5nqvNyWsdJrS4+YlqEauneMkc5mWr8X+JoPkAscvYgVhuUG0LmqnHPTyeOu7uHXnP9nPwQx09seCOdj2nifBD7HiDQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-12T09:17:11.058Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="ueFUvpReNhwibG5oPf1w" version="14.8.5" type="github">
+  <diagram id="odYxR9brROfHomilIwXA" name="Page-1">
+    <mxGraphModel dx="2025" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1" source="FXrGEgWfCxxwvI2vLmVx-1" target="FXrGEgWfCxxwvI2vLmVx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1" source="FXrGEgWfCxxwvI2vLmVx-1" target="FXrGEgWfCxxwvI2vLmVx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1" source="FXrGEgWfCxxwvI2vLmVx-1" target="FXrGEgWfCxxwvI2vLmVx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#CC0066;" edge="1" parent="1" source="FXrGEgWfCxxwvI2vLmVx-1" target="FXrGEgWfCxxwvI2vLmVx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-1" value="管理平台" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#B5739D;fontColor=#FFFFFF;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="294" y="730" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-2" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;fontSize=14;fontColor=#FFFFFF;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="80" y="620" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-3" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;fontSize=14;fontColor=#FFFFFF;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="80" y="730" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-4" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;fontSize=14;fontColor=#FFFFFF;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="80" y="840" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-8" value="二次编辑" style="swimlane;fontSize=14;strokeColor=#000000;fillColor=#67AB9F;swimlaneFillColor=#67AB9F;fontColor=#CC0066;" vertex="1" parent="1">
+          <mxGeometry x="520" y="690" width="270" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-14" value="+ 用例的断言" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#CC0066;fontStyle=1" vertex="1" parent="FXrGEgWfCxxwvI2vLmVx-8">
+          <mxGeometry y="30" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-15" value="+ 用例的 setup 再次编辑" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#CC0066;fontStyle=1" vertex="1" parent="FXrGEgWfCxxwvI2vLmVx-8">
+          <mxGeometry y="60" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-16" value="+ 等等" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#CC0066;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="520" y="780" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#4D9900;" edge="1" parent="1" source="FXrGEgWfCxxwvI2vLmVx-18" target="FXrGEgWfCxxwvI2vLmVx-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-18" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;fontSize=14;fontColor=#FFFFFF;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="170" y="180" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#CC0066;" edge="1" parent="1" source="FXrGEgWfCxxwvI2vLmVx-19" target="FXrGEgWfCxxwvI2vLmVx-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-24" value="打开app" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#4D9900;" vertex="1" connectable="0" parent="FXrGEgWfCxxwvI2vLmVx-21">
+          <mxGeometry x="-0.16" relative="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-19" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;labelBackgroundColor=#ffffff;fontSize=14;fontColor=#4D9900;fillColor=#4D9900;strokeColor=#4D9900;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-120" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#4D9900;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="FXrGEgWfCxxwvI2vLmVx-123" target="FXrGEgWfCxxwvI2vLmVx-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-22" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;fontSize=14;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="170" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-25" value="到目标测试页面" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#4D9900;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="280" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-27" value="" style="shape=rect;strokeColor=none;fillColor=#ffffff;gradientColor=none;shadow=0;labelBackgroundColor=#ffffff;fontSize=14;fontColor=#4D9900;" vertex="1" parent="1">
+          <mxGeometry x="370" y="150" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-28" value="Label" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;" vertex="1" parent="FXrGEgWfCxxwvI2vLmVx-27">
+          <mxGeometry width="150" height="20" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-29" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#FF9501;" vertex="1" parent="FXrGEgWfCxxwvI2vLmVx-28">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-30" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" vertex="1" parent="FXrGEgWfCxxwvI2vLmVx-28">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-31" value="Label" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;" vertex="1" parent="FXrGEgWfCxxwvI2vLmVx-27">
+          <mxGeometry width="150" height="20" relative="1" as="geometry">
+            <mxPoint y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-32" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#FF3B2F;" vertex="1" parent="FXrGEgWfCxxwvI2vLmVx-31">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-33" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" vertex="1" parent="FXrGEgWfCxxwvI2vLmVx-31">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-34" value="Label" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;" vertex="1" parent="FXrGEgWfCxxwvI2vLmVx-27">
+          <mxGeometry width="150" height="20" relative="1" as="geometry">
+            <mxPoint y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-35" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#4CDA64;" vertex="1" parent="FXrGEgWfCxxwvI2vLmVx-34">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-36" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" vertex="1" parent="FXrGEgWfCxxwvI2vLmVx-34">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-37" value="Label" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;" vertex="1" parent="FXrGEgWfCxxwvI2vLmVx-27">
+          <mxGeometry width="150" height="20" relative="1" as="geometry">
+            <mxPoint y="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-38" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#007AFF;" vertex="1" parent="FXrGEgWfCxxwvI2vLmVx-37">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-39" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" vertex="1" parent="FXrGEgWfCxxwvI2vLmVx-37">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-40" value="Label" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;" vertex="1" parent="FXrGEgWfCxxwvI2vLmVx-27">
+          <mxGeometry width="150" height="20" relative="1" as="geometry">
+            <mxPoint y="80" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-41" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#5855D6;" vertex="1" parent="FXrGEgWfCxxwvI2vLmVx-40">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-42" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" vertex="1" parent="FXrGEgWfCxxwvI2vLmVx-40">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-43" value="Label" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;" vertex="1" parent="FXrGEgWfCxxwvI2vLmVx-27">
+          <mxGeometry width="150" height="20" relative="1" as="geometry">
+            <mxPoint y="100" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-44" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#8F8E94;" vertex="1" parent="FXrGEgWfCxxwvI2vLmVx-43">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-45" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" vertex="1" parent="FXrGEgWfCxxwvI2vLmVx-43">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-55" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.appBar;fillColor=#ffffff;gradientColor=none;labelBackgroundColor=#ffffff;fontSize=14;fontColor=#4D9900;" vertex="1" parent="1">
+          <mxGeometry x="371" y="94" width="149" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-56" value="CARRIER" style="shape=rect;align=left;fontSize=8;spacingLeft=24;fontSize=4;fontColor=#aaaaaa;strokeColor=none;fillColor=none;spacingTop=4;" vertex="1" parent="FXrGEgWfCxxwvI2vLmVx-55">
+          <mxGeometry y="0.5" width="50" height="13" relative="1" as="geometry">
+            <mxPoint y="-6.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-57" value="11:55PM" style="shape=rect;fontSize=8;fontColor=#aaaaaa;strokeColor=none;fillColor=none;spacingTop=4;" vertex="1" parent="FXrGEgWfCxxwvI2vLmVx-55">
+          <mxGeometry x="0.5" y="0.5" width="50" height="13" relative="1" as="geometry">
+            <mxPoint x="-30" y="-6.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-58" value="98%" style="shape=rect;align=right;fontSize=8;spacingRight=19;fontSize=6;fontColor=#aaaaaa;strokeColor=none;fillColor=none;spacingTop=4;" vertex="1" parent="FXrGEgWfCxxwvI2vLmVx-55">
+          <mxGeometry x="1" y="0.5" width="45" height="13" relative="1" as="geometry">
+            <mxPoint x="-45" y="-6.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-60" value="" style="shape=rect;fillColor=#F7F7F7;strokeColor=none;labelBackgroundColor=#ffffff;fontSize=14;fontColor=#4D9900;" vertex="1" parent="1">
+          <mxGeometry x="370" y="110" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-61" value="iMessage" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.marginRect;rx=3;ry=3;rectMarginLeft=25;rectMarginRight=25;rectMarginTop=3;rectMarginBottom=3;fillColor=#FBFBFB;strokeColor=#B3B3B3;fontColor=#B3B3B3;align=left;spacingLeft=29;fontSize=8;" vertex="1" parent="FXrGEgWfCxxwvI2vLmVx-60">
+          <mxGeometry width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-62" value="" style="strokeWidth=1;strokeColor=#F7F7F7;fillColor=#666666;shape=mxgraph.ios7.icons.camera;" vertex="1" parent="FXrGEgWfCxxwvI2vLmVx-60">
+          <mxGeometry y="0.5" width="15" height="9" relative="1" as="geometry">
+            <mxPoint x="5" y="-4.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-63" value="" style="strokeColor=none;fillColor=#666666;shape=ellipse;" vertex="1" parent="FXrGEgWfCxxwvI2vLmVx-60">
+          <mxGeometry x="1" y="0.5" width="14" height="14" relative="1" as="geometry">
+            <mxPoint x="-19" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-64" value="" style="strokeColor=#F7F7F7;fillColor=none;shape=mxgraph.ios7.icons.microphone;strokeWidth=1;" vertex="1" parent="FXrGEgWfCxxwvI2vLmVx-63">
+          <mxGeometry x="0.5" y="0.5" width="4" height="10" relative="1" as="geometry">
+            <mxPoint x="-2" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-66" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.keyboard_(letters);fontSize=14;fontColor=#4D9900;fillColor=#E6FFCC;" vertex="1" parent="1">
+          <mxGeometry x="371" y="270" width="149" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-116" value="Label" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;" vertex="1" parent="1">
+          <mxGeometry x="371" y="130" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-117" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#FF9501;" vertex="1" parent="FXrGEgWfCxxwvI2vLmVx-116">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-118" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" vertex="1" parent="FXrGEgWfCxxwvI2vLmVx-116">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-119" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=#ffffff;fontSize=14;fontColor=#4D9900;strokeColor=#4D9900;strokeWidth=3;fillColor=#E6FFCC;" vertex="1" parent="1">
+          <mxGeometry x="950" y="170" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-122" value="开始测试&lt;br&gt;并且操作一会之后&lt;br&gt;生成用例文件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#4D9900;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="680" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-123" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;fontSize=14;fontColor=#FFFFFF;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="820" y="180" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FXrGEgWfCxxwvI2vLmVx-124" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#4D9900;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="FXrGEgWfCxxwvI2vLmVx-22" target="FXrGEgWfCxxwvI2vLmVx-123">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="220" as="sourcePoint" />
+            <mxPoint x="950" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
