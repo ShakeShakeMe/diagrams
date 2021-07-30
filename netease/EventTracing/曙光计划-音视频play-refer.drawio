@@ -1,1 +1,498 @@
-<mxfile host="Electron" modified="2021-07-02T05:44:05.025Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/14.6.13 Chrome/89.0.4389.128 Electron/12.0.7 Safari/537.36" etag="illQMZygHge6iqMiIhq5" version="14.6.13" type="device"><diagram id="2d6VyGCob0dpQfUCWXrP" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-30T05:48:01.527Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="yHx9tL01BIMxyxTN4MaM" version="14.9.3" type="github">
+  <diagram id="2d6VyGCob0dpQfUCWXrP" name="Page-1">
+    <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n5WvTJoM9-6J8rUbUYpR-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="20" y="50" width="1360" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-2" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;" parent="1" vertex="1">
+          <mxGeometry x="301" y="280" width="200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-10" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.appBar;fillColor=#ffffff;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="314" y="340" width="175" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-11" value="CARRIER" style="shape=rect;align=left;fontSize=8;spacingLeft=24;fontSize=4;fontColor=#aaaaaa;strokeColor=none;fillColor=none;spacingTop=4;" parent="yfKhijPMggqKRTxiLk1A-10" vertex="1">
+          <mxGeometry y="0.5" width="50" height="13" relative="1" as="geometry">
+            <mxPoint y="-6.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-12" value="11:55PM" style="shape=rect;fontSize=8;fontColor=#aaaaaa;strokeColor=none;fillColor=none;spacingTop=4;" parent="yfKhijPMggqKRTxiLk1A-10" vertex="1">
+          <mxGeometry x="0.5" y="0.5" width="50" height="13" relative="1" as="geometry">
+            <mxPoint x="-30" y="-6.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-13" value="98%" style="shape=rect;align=right;fontSize=8;spacingRight=19;fontSize=6;fontColor=#aaaaaa;strokeColor=none;fillColor=none;spacingTop=4;" parent="yfKhijPMggqKRTxiLk1A-10" vertex="1">
+          <mxGeometry x="1" y="0.5" width="45" height="13" relative="1" as="geometry">
+            <mxPoint x="-45" y="-6.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-14" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;" parent="1" vertex="1">
+          <mxGeometry x="840" y="280" width="200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-15" value="" style="shape=rect;fillColor=#F6F6F8;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="314" y="360" width="175" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-16" value="搜索结果页" style="text;fontSize=10;verticalAlign=middle;align=center;spacingTop=2;fontStyle=1" parent="yfKhijPMggqKRTxiLk1A-15" vertex="1">
+          <mxGeometry x="58.68902439024391" width="57.621951219512205" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-24" value="" style="shape=rect;strokeColor=none;fillColor=#ffffff;gradientColor=none;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="314" y="390" width="175" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-25" value="Song_1" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;" parent="yfKhijPMggqKRTxiLk1A-24" vertex="1">
+          <mxGeometry width="175" height="20" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-26" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#FF9501;" parent="yfKhijPMggqKRTxiLk1A-25" vertex="1">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-27" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" parent="yfKhijPMggqKRTxiLk1A-25" vertex="1">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-28" value="Song_2" style="shape=rect;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;dashed=1;dashPattern=1 1;" parent="yfKhijPMggqKRTxiLk1A-24" vertex="1">
+          <mxGeometry width="175" height="20" relative="1" as="geometry">
+            <mxPoint y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-29" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#FF3B2F;" parent="yfKhijPMggqKRTxiLk1A-28" vertex="1">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-30" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" parent="yfKhijPMggqKRTxiLk1A-28" vertex="1">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-31" value="Song_3" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;" parent="yfKhijPMggqKRTxiLk1A-24" vertex="1">
+          <mxGeometry width="175" height="20" relative="1" as="geometry">
+            <mxPoint y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-32" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#4CDA64;" parent="yfKhijPMggqKRTxiLk1A-31" vertex="1">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-33" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" parent="yfKhijPMggqKRTxiLk1A-31" vertex="1">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-34" value="Song_4" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;" parent="yfKhijPMggqKRTxiLk1A-24" vertex="1">
+          <mxGeometry width="175" height="20" relative="1" as="geometry">
+            <mxPoint y="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-35" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#007AFF;" parent="yfKhijPMggqKRTxiLk1A-34" vertex="1">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-36" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" parent="yfKhijPMggqKRTxiLk1A-34" vertex="1">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="yfKhijPMggqKRTxiLk1A-24" source="yfKhijPMggqKRTxiLk1A-28" target="yfKhijPMggqKRTxiLk1A-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-49" value="将6首歌曲添加到播放列表&lt;br&gt;&amp;amp;&amp;amp; 播放Song_2&lt;br&gt;&amp;amp;&amp;amp; 打开播放页" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="yfKhijPMggqKRTxiLk1A-24" source="yfKhijPMggqKRTxiLk1A-28" target="yfKhijPMggqKRTxiLk1A-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-37" value="Song_5" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;" parent="yfKhijPMggqKRTxiLk1A-24" vertex="1">
+          <mxGeometry width="175" height="20" relative="1" as="geometry">
+            <mxPoint y="80" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-38" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#5855D6;" parent="yfKhijPMggqKRTxiLk1A-37" vertex="1">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-39" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" parent="yfKhijPMggqKRTxiLk1A-37" vertex="1">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-40" value="Song_6" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;" parent="yfKhijPMggqKRTxiLk1A-24" vertex="1">
+          <mxGeometry width="175" height="20" relative="1" as="geometry">
+            <mxPoint y="100" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-41" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#8F8E94;" parent="yfKhijPMggqKRTxiLk1A-40" vertex="1">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-42" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" parent="yfKhijPMggqKRTxiLk1A-40" vertex="1">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-43" value="" style="shape=rect;fillColor=#F6F6F8;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="852.5" y="360" width="175" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-44" value="播放页(Song_2)" style="text;fontSize=10;verticalAlign=middle;align=center;spacingTop=2;fontStyle=1" parent="yfKhijPMggqKRTxiLk1A-43" vertex="1">
+          <mxGeometry x="58.68902439024391" width="57.621951219512205" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-45" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.appBar;fillColor=#ffffff;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="852.5" y="340" width="175" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-46" value="CARRIER" style="shape=rect;align=left;fontSize=8;spacingLeft=24;fontSize=4;fontColor=#aaaaaa;strokeColor=none;fillColor=none;spacingTop=4;" parent="yfKhijPMggqKRTxiLk1A-45" vertex="1">
+          <mxGeometry y="0.5" width="50" height="13" relative="1" as="geometry">
+            <mxPoint y="-6.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-47" value="11:55PM" style="shape=rect;fontSize=8;fontColor=#aaaaaa;strokeColor=none;fillColor=none;spacingTop=4;" parent="yfKhijPMggqKRTxiLk1A-45" vertex="1">
+          <mxGeometry x="0.5" y="0.5" width="50" height="13" relative="1" as="geometry">
+            <mxPoint x="-30" y="-6.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-48" value="98%" style="shape=rect;align=right;fontSize=8;spacingRight=19;fontSize=6;fontColor=#aaaaaa;strokeColor=none;fillColor=none;spacingTop=4;" parent="yfKhijPMggqKRTxiLk1A-45" vertex="1">
+          <mxGeometry x="1" y="0.5" width="45" height="13" relative="1" as="geometry">
+            <mxPoint x="-45" y="-6.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-52" value="黑胶&lt;br&gt;转盘" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;gradientColor=none;strokeColor=none;fillColor=#999999;" parent="1" vertex="1">
+          <mxGeometry x="875" y="430" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-54" value="打开&lt;b&gt;page_search_result:&lt;/b&gt;&lt;br&gt;此时: &lt;font color=&quot;#cc6600&quot;&gt;_&lt;/font&gt;&lt;b&gt;&lt;font color=&quot;#cc6600&quot;&gt;actseq==1&lt;/font&gt;, &lt;font color=&quot;#4d9900&quot;&gt;_pgstep==3&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="301" y="230" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-57" value="_spm: &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;song_2|page_search_result&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="51" y="410" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-107" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="yfKhijPMggqKRTxiLk1A-59" target="yfKhijPMggqKRTxiLk1A-106" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-59" value="&lt;b&gt;click事件:&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;_actseq +1&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="501" y="380" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-60" value="打开&lt;b&gt;page_songplay:&lt;br&gt;此时: &lt;font color=&quot;#cc6600&quot;&gt;_actseq==1&lt;/font&gt;, &lt;font color=&quot;#4d9900&quot;&gt;_pgstep==4&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="840" y="230" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-61" value="&lt;h1&gt;_pgrefer:&lt;/h1&gt;&lt;p&gt;1. 本次播放页的打开，来源于搜索结果页列表song_2歌曲cell的点击&lt;/p&gt;&lt;p&gt;2. 格式: [e][_actseq][_pgstep][_spm]&lt;/p&gt;&lt;p&gt;3. 值是: &lt;b&gt;[e][&lt;font color=&quot;#cc6600&quot;&gt;2&lt;/font&gt;][&lt;font color=&quot;#4d9900&quot;&gt;3]&lt;/font&gt;[&lt;font color=&quot;#ff0000&quot;&gt;song_2|page_search_result&lt;/font&gt;]&lt;/b&gt;&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;strokeColor=#000000;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="240" width="290" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-62" value="&lt;h1&gt;_pgrefer:&lt;/h1&gt;&lt;p&gt;1. 场景：在搜索结果页，显示一个歌曲列表&lt;/p&gt;&lt;p&gt;2. 点击song_2歌曲cell，将6首歌添加到播放列表，并且从song_2开始播放，同时进入到了播放页&lt;/p&gt;&lt;p&gt;3. 播放页的_pgrefer 就是 &lt;b&gt;搜索结果页列表song_2歌曲cell的点击事件&lt;/b&gt;&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;dashed=1;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="30" y="60" width="420" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-63" value="&lt;h1&gt;_spm:&lt;/h1&gt;&lt;p&gt;1. 该歌曲cell在虚拟树上的一个字符串标识&lt;/p&gt;&lt;p&gt;2. 格式: _oid[:idx]|_oid[:idx]&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;dashed=1;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="51" y="465" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-64" value="&lt;h1&gt;_addrefer &amp;amp; _playrefer:&lt;/h1&gt;&lt;p&gt;1. _addrefer: 描述歌曲是怎么被添加到播放列表的（类似于原来播放埋点的source）&lt;/p&gt;&lt;p&gt;2. _playrefer: 描述歌曲是什么原因被播放的&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;dashed=1;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="52" y="710" width="420" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-106" value="&lt;h1&gt;click事件发生时:&lt;/h1&gt;&lt;p&gt;&lt;b&gt;1. _spm: song_2|page_search_result&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;2. _actseq: 2&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;3. _pgstep: 3&lt;/b&gt;&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;dashed=1;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="550" y="200" width="229" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-130" value="" style="whiteSpace=wrap;html=1;shadow=0;gradientColor=none;fillColor=none;strokeColor=#808080;" parent="1" vertex="1">
+          <mxGeometry x="790" y="1010" width="179" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-131" value="" style="shape=rect;strokeColor=none;fillColor=#ffffff;gradientColor=none;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="790" y="1050" width="175" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-132" value="Song_1" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;" parent="yfKhijPMggqKRTxiLk1A-131" vertex="1">
+          <mxGeometry width="175" height="20" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-133" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#FF9501;" parent="yfKhijPMggqKRTxiLk1A-132" vertex="1">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-134" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" parent="yfKhijPMggqKRTxiLk1A-132" vertex="1">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-135" value="Song_2" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;" parent="yfKhijPMggqKRTxiLk1A-131" vertex="1">
+          <mxGeometry width="175" height="20" relative="1" as="geometry">
+            <mxPoint y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-136" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#FFB570;" parent="yfKhijPMggqKRTxiLk1A-135" vertex="1">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-137" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" parent="yfKhijPMggqKRTxiLk1A-135" vertex="1">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-138" value="Song_3" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;" parent="yfKhijPMggqKRTxiLk1A-131" vertex="1">
+          <mxGeometry width="175" height="20" relative="1" as="geometry">
+            <mxPoint y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-139" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#4CDA64;" parent="yfKhijPMggqKRTxiLk1A-138" vertex="1">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-140" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" parent="yfKhijPMggqKRTxiLk1A-138" vertex="1">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-141" value="Song_4" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;" parent="yfKhijPMggqKRTxiLk1A-131" vertex="1">
+          <mxGeometry width="175" height="20" relative="1" as="geometry">
+            <mxPoint y="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-142" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#007AFF;" parent="yfKhijPMggqKRTxiLk1A-141" vertex="1">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-143" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" parent="yfKhijPMggqKRTxiLk1A-141" vertex="1">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-144" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="yfKhijPMggqKRTxiLk1A-131" source="yfKhijPMggqKRTxiLk1A-135" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-145" value="将6首歌曲添加到播放列表&lt;br&gt;&amp;amp;&amp;amp; 播放Song_2&lt;br&gt;&amp;amp;&amp;amp; 打开播放页" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="yfKhijPMggqKRTxiLk1A-131" source="yfKhijPMggqKRTxiLk1A-135" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-146" value="Song_5" style="shape=rect;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;dashed=1;dashPattern=1 1;" parent="yfKhijPMggqKRTxiLk1A-131" vertex="1">
+          <mxGeometry width="175" height="20" relative="1" as="geometry">
+            <mxPoint y="80" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-147" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#5855D6;" parent="yfKhijPMggqKRTxiLk1A-146" vertex="1">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-148" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" parent="yfKhijPMggqKRTxiLk1A-146" vertex="1">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-194" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;gradientColor=none;fontColor=#FF0000;fillColor=#FF0000;strokeColor=none;" parent="yfKhijPMggqKRTxiLk1A-146" vertex="1">
+          <mxGeometry x="140" y="5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-149" value="Song_x2" style="shape=rect;strokeColor=none;fontSize=10;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;fontStyle=1;fontColor=#FF0000;" parent="yfKhijPMggqKRTxiLk1A-131" vertex="1">
+          <mxGeometry width="175" height="20" relative="1" as="geometry">
+            <mxPoint y="100" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-150" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#FF0000;" parent="yfKhijPMggqKRTxiLk1A-149" vertex="1">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-151" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" parent="yfKhijPMggqKRTxiLk1A-149" vertex="1">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-153" value="&lt;b&gt;播放列表&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="839" y="1020" width="81" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-154" value="Song_6" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;" parent="1" vertex="1">
+          <mxGeometry x="790" y="1170" width="175" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-155" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#8F8E94;" parent="yfKhijPMggqKRTxiLk1A-154" vertex="1">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-156" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" parent="yfKhijPMggqKRTxiLk1A-154" vertex="1">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-160" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;" parent="1" vertex="1">
+          <mxGeometry x="273" y="910" width="200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-161" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.appBar;fillColor=#ffffff;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="286" y="970" width="175" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-162" value="CARRIER" style="shape=rect;align=left;fontSize=8;spacingLeft=24;fontSize=4;fontColor=#aaaaaa;strokeColor=none;fillColor=none;spacingTop=4;" parent="yfKhijPMggqKRTxiLk1A-161" vertex="1">
+          <mxGeometry y="0.5" width="50" height="13" relative="1" as="geometry">
+            <mxPoint y="-6.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-163" value="11:55PM" style="shape=rect;fontSize=8;fontColor=#aaaaaa;strokeColor=none;fillColor=none;spacingTop=4;" parent="yfKhijPMggqKRTxiLk1A-161" vertex="1">
+          <mxGeometry x="0.5" y="0.5" width="50" height="13" relative="1" as="geometry">
+            <mxPoint x="-30" y="-6.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-164" value="98%" style="shape=rect;align=right;fontSize=8;spacingRight=19;fontSize=6;fontColor=#aaaaaa;strokeColor=none;fillColor=none;spacingTop=4;" parent="yfKhijPMggqKRTxiLk1A-161" vertex="1">
+          <mxGeometry x="1" y="0.5" width="45" height="13" relative="1" as="geometry">
+            <mxPoint x="-45" y="-6.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-165" value="" style="shape=rect;fillColor=#F6F6F8;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="286" y="990" width="175" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-166" value="个人主页" style="text;fontSize=10;verticalAlign=middle;align=center;spacingTop=2;fontStyle=1" parent="yfKhijPMggqKRTxiLk1A-165" vertex="1">
+          <mxGeometry x="58.68902439024391" width="57.621951219512205" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-167" value="" style="shape=rect;strokeColor=none;fillColor=#ffffff;gradientColor=none;shadow=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="286" y="1020" width="175" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-168" value="Song_x1" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;" parent="yfKhijPMggqKRTxiLk1A-167" vertex="1">
+          <mxGeometry width="175" height="20" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-169" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#FF9501;" parent="yfKhijPMggqKRTxiLk1A-168" vertex="1">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-170" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" parent="yfKhijPMggqKRTxiLk1A-168" vertex="1">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-171" value="Song_x2" style="shape=rect;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;dashed=1;dashPattern=1 1;" parent="yfKhijPMggqKRTxiLk1A-167" vertex="1">
+          <mxGeometry width="175" height="20" relative="1" as="geometry">
+            <mxPoint y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-172" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#FF3B2F;" parent="yfKhijPMggqKRTxiLk1A-171" vertex="1">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-173" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" parent="yfKhijPMggqKRTxiLk1A-171" vertex="1">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-174" value="Song_x3" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;" parent="yfKhijPMggqKRTxiLk1A-167" vertex="1">
+          <mxGeometry width="175" height="20" relative="1" as="geometry">
+            <mxPoint y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-175" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#4CDA64;" parent="yfKhijPMggqKRTxiLk1A-174" vertex="1">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-176" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" parent="yfKhijPMggqKRTxiLk1A-174" vertex="1">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-177" value="Song_x4" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;" parent="yfKhijPMggqKRTxiLk1A-167" vertex="1">
+          <mxGeometry width="175" height="20" relative="1" as="geometry">
+            <mxPoint y="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-178" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#007AFF;" parent="yfKhijPMggqKRTxiLk1A-177" vertex="1">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-179" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" parent="yfKhijPMggqKRTxiLk1A-177" vertex="1">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-180" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="yfKhijPMggqKRTxiLk1A-167" source="yfKhijPMggqKRTxiLk1A-171" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-181" value="将6首歌曲添加到播放列表&lt;br&gt;&amp;amp;&amp;amp; 播放Song_2&lt;br&gt;&amp;amp;&amp;amp; 打开播放页" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="yfKhijPMggqKRTxiLk1A-167" source="yfKhijPMggqKRTxiLk1A-171" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-182" value="Song_x5" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;" parent="yfKhijPMggqKRTxiLk1A-167" vertex="1">
+          <mxGeometry width="175" height="20" relative="1" as="geometry">
+            <mxPoint y="80" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-183" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#5855D6;" parent="yfKhijPMggqKRTxiLk1A-182" vertex="1">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-184" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" parent="yfKhijPMggqKRTxiLk1A-182" vertex="1">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-185" value="Song_x6" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;" parent="yfKhijPMggqKRTxiLk1A-167" vertex="1">
+          <mxGeometry width="175" height="20" relative="1" as="geometry">
+            <mxPoint y="100" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-186" value="" style="shape=rect;rounded=1;rSize=3;strokeColor=none;fillColor=#8F8E94;" parent="yfKhijPMggqKRTxiLk1A-185" vertex="1">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="5" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-187" value="" style="shape=mxgraph.ios7.misc.right;strokeColor=#666666;" parent="yfKhijPMggqKRTxiLk1A-185" vertex="1">
+          <mxGeometry x="1" y="0.5" width="5" height="10" relative="1" as="geometry">
+            <mxPoint x="-15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-188" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF0000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="yfKhijPMggqKRTxiLk1A-167" source="yfKhijPMggqKRTxiLk1A-171" target="yfKhijPMggqKRTxiLk1A-149" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-193" value="&lt;font color=&quot;#000000&quot;&gt;将song_x2歌曲添加&lt;br&gt;到当前播放歌曲后面&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" parent="yfKhijPMggqKRTxiLk1A-188" vertex="1" connectable="0">
+          <mxGeometry x="-0.0398" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-196" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" parent="1" source="yfKhijPMggqKRTxiLk1A-189" target="yfKhijPMggqKRTxiLk1A-195" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-189" value="&lt;b&gt;click事件:&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;_actseq +1&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="473" y="1020" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-190" value="打开&lt;b&gt;page_user:&lt;/b&gt;&lt;br&gt;此时: &lt;font color=&quot;#cc6600&quot;&gt;_&lt;/font&gt;&lt;b&gt;&lt;font color=&quot;#cc6600&quot;&gt;actseq==1&lt;/font&gt;, &lt;font color=&quot;#4d9900&quot;&gt;_pgstep==10&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="273" y="860" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-192" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" parent="1" source="yfKhijPMggqKRTxiLk1A-191" target="yfKhijPMggqKRTxiLk1A-171" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-191" value="_spm: &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;song_2|page_user&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="52" y="1040" width="159" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-195" value="&lt;h1&gt;click事件发生时:&lt;/h1&gt;&lt;p&gt;&lt;b&gt;1. _spm: song_2|page_user&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;2. _actseq: 2&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;3. _pgstep: 11&lt;/b&gt;&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;dashed=1;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="540" y="790" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-197" value="&lt;h1&gt;歌曲播放顺序:&lt;/h1&gt;&lt;p&gt;&lt;b&gt;1. 上面将6个歌曲添加到播放列表，从song_2开始播放&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;2. 然后歌曲依次播放到song_4&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;3. 播放页按钮“&lt;font color=&quot;#ff0000&quot;&gt;下一首&lt;/font&gt;”被点击，歌曲切换到song_5&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;4. 个人主页点击song_2，将歌曲添加到当前歌曲后面&lt;/b&gt;&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;dashed=1;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="779" y="790" width="430" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-199" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.left;strokeColor=#0080f0;dashPattern=1 1;fillColor=#FF0000;gradientColor=none;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="890" y="580" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-202" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;dashed=1;dashPattern=1 1;" parent="1" source="yfKhijPMggqKRTxiLk1A-200" target="yfKhijPMggqKRTxiLk1A-197" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-203" value="&lt;b&gt;下一首: 播放song_5&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" parent="yfKhijPMggqKRTxiLk1A-202" vertex="1" connectable="0">
+          <mxGeometry x="0.0853" y="1" relative="1" as="geometry">
+            <mxPoint x="8" y="38" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-200" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.right;strokeColor=#0080f0;dashPattern=1 1;fillColor=#FF0000;gradientColor=none;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="965" y="580" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-204" value="&lt;h1&gt;&lt;font color=&quot;#000000&quot;&gt;_addrefer场景举例:&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font color=&quot;#000000&quot;&gt;1. song_1 到 song_6 ，都是搜索结果页song_2点击时被添加进来&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;值是: &lt;b&gt;[e][&lt;/b&gt;&lt;/font&gt;&lt;b&gt;&lt;font color=&quot;#cc6600&quot;&gt;2&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;][&lt;/font&gt;&lt;font color=&quot;#4d9900&quot;&gt;3&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;][&lt;/font&gt;song_2|page_search_result&lt;font color=&quot;#000000&quot;&gt;]&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#000000&quot;&gt;2. song_x2是个人主页点击添加进来&lt;br&gt;值：&lt;/font&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;[e][&lt;/font&gt;&lt;font color=&quot;#cc6600&quot;&gt;2&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;][&lt;/font&gt;&lt;font color=&quot;#4d9900&quot;&gt;11&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;][&lt;/font&gt;song_x2|page_user&lt;font color=&quot;#000000&quot;&gt;]&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;dashed=1;dashPattern=1 1;fontColor=#FF0000;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="980" width="382" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-205" value="&lt;h1&gt;&lt;font color=&quot;#000000&quot;&gt;_playrefer场景举例:&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font color=&quot;#000000&quot;&gt;1. song_2的播放，直接原因是搜索结果页song_2的点击&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;值是: &lt;b&gt;[e][&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;#cc6600&quot; style=&quot;font-weight: bold&quot;&gt;2&lt;/font&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-weight: bold&quot;&gt;][&lt;/font&gt;&lt;font color=&quot;#4d9900&quot; style=&quot;font-weight: bold&quot;&gt;3&lt;/font&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-weight: bold&quot;&gt;][&lt;/font&gt;&lt;b&gt;song_2|page_search_result&lt;/b&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;]，跟_adrefer相同&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#000000&quot;&gt;2. song_3, song_4 是播放器内部自动切换到了下一首&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#000000&quot;&gt;值: &lt;/font&gt;&lt;b&gt;&lt;font color=&quot;#999900&quot;&gt;auto_next&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#000000&quot;&gt;3. song_5是播放页“下一首”按钮点击&lt;br&gt;值：&lt;/font&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;[e][&lt;/font&gt;&lt;font color=&quot;#cc6600&quot;&gt;2&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;][&lt;/font&gt;&lt;font color=&quot;#4d9900&quot;&gt;4&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;][&lt;/font&gt;next|page_songplay&lt;font color=&quot;#000000&quot;&gt;]&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;dashed=1;dashPattern=1 1;fontColor=#FF0000;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="1130" width="382" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-206" value="&lt;h1&gt;click事件发生时:&lt;/h1&gt;&lt;p&gt;&lt;b&gt;1. _spm: next|page_songplay&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;2. _actseq: 2&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;3. _pgstep: 4&lt;/b&gt;&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;dashed=1;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1170" y="640" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-208" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" parent="1" source="yfKhijPMggqKRTxiLk1A-207" target="yfKhijPMggqKRTxiLk1A-206" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yfKhijPMggqKRTxiLk1A-207" value="&lt;b&gt;click事件:&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;_actseq +1&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="990" y="680" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
