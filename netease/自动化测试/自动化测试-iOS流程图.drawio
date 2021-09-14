@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-14T07:40:16.316Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="8-gcpIr9ZU21-N44FlJJ" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-14T08:19:19.225Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="nU_qimPuU_otYCIx5hWZ" version="15.1.4" type="github">
   <diagram id="cVAvhTtTh0kWz4ZDLpcs" name="Page-1">
-    <mxGraphModel dx="2382" dy="1994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2665" dy="2195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -201,7 +201,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QC5HRPprEjbzEnmF-3T_-37" value="NETest&lt;br&gt;（内置SDK）" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;strokeColor=#000000;fillColor=#ffffff;align=center;" vertex="1" parent="1">
-          <mxGeometry x="421" y="1440" width="150" height="735" as="geometry" />
+          <mxGeometry x="421" y="1440" width="150" height="660" as="geometry" />
         </mxCell>
         <mxCell id="QC5HRPprEjbzEnmF-3T_-39" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
           <mxGeometry x="492" y="1870" width="10" height="180" as="geometry" />
