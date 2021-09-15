@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-15T02:47:20.596Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="b0s_h7xqT4GDtXKZQRN4" version="15.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-15T02:48:16.870Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="2nblhxT9VOpKFXfl0Z_F" version="15.2.5" type="github">
   <diagram id="6nu6wC9H32lUqhMNFaVd" name="Page-1">
-    <mxGraphModel dx="2022" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2379" dy="1328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -221,8 +221,8 @@
         <mxCell id="NThgxDd1clSjv3KLgz4_-60" value="环境记录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#66B2FF;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="414" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NThgxDd1clSjv3KLgz4_-62" value="&lt;h1&gt;环境记录&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;1. 开始录制时，先将环境变量信息保存一番，包括且不限于如下:&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 1) 网络环境设置: 比如当前是 qa-test 网络&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 2) mock列表记录: 当前正在mock的接口列表，记录mock信息&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 3) 当前登录情况: 比如当前用户是 dingli/xxxxx 账号&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 4) 当前是什么页面，比如 `歌单详情页`&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;2. 这里应该记录一个比较&lt;b&gt;完整的环境信息&lt;/b&gt;，做到不管在什么情况下，执行用例时，都可以将执行环境 `&lt;b&gt;还原&lt;/b&gt;`，使得用例执行环境的 `&lt;b&gt;稳定&lt;/b&gt;`&lt;/span&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;fontColor=#808080;fillColor=#CCE5FF;" parent="1" vertex="1">
-          <mxGeometry x="690" y="972.5" width="390" height="195" as="geometry" />
+        <mxCell id="NThgxDd1clSjv3KLgz4_-62" value="&lt;h1&gt;环境记录&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;1. 开始录制时，先将环境变量信息保存一番，包括且不限于如下:&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 1) 网络环境设置: 比如当前是 qa-test 网络&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 2) mock列表记录: 当前正在mock的接口列表，记录mock信息&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 3) 当前登录情况: 比如当前用户是 dingli/xxxxx 账号&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 4) 当前是什么页面，比如 `歌单详情页`&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; 5) 主题皮肤&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;2. 这里应该记录一个比较&lt;b&gt;完整的环境信息&lt;/b&gt;，做到不管在什么情况下，执行用例时，都可以将执行环境 `&lt;b&gt;还原&lt;/b&gt;`，使得用例执行环境的 `&lt;b&gt;稳定&lt;/b&gt;`&lt;/span&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;fontColor=#808080;fillColor=#CCE5FF;" parent="1" vertex="1">
+          <mxGeometry x="715" y="930" width="390" height="217.5" as="geometry" />
         </mxCell>
         <mxCell id="NThgxDd1clSjv3KLgz4_-70" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#808080;strokeWidth=2;" parent="1" source="NThgxDd1clSjv3KLgz4_-64" target="NThgxDd1clSjv3KLgz4_-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -311,7 +311,7 @@
           <mxGeometry x="1510" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NThgxDd1clSjv3KLgz4_-98" value="&lt;h1&gt;环境`还原`&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;1. 将录制的时候保存的环境，依次还原&lt;/span&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;fontColor=#808080;fillColor=#CCE5FF;" parent="1" vertex="1">
-          <mxGeometry x="1770" y="780" width="270" height="100" as="geometry" />
+          <mxGeometry x="1770" y="750" width="270" height="100" as="geometry" />
         </mxCell>
         <mxCell id="NThgxDd1clSjv3KLgz4_-106" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#FFFFFF;strokeColor=#666666;strokeWidth=2;" parent="1" source="NThgxDd1clSjv3KLgz4_-100" target="NThgxDd1clSjv3KLgz4_-104" edge="1">
           <mxGeometry relative="1" as="geometry" />
